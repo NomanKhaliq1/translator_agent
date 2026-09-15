@@ -1,0 +1,16 @@
+{
+  "title": "Translator Agent",
+  "description": "Streamlit translator over deep-translator, with language auto-detection and the full Google Translate language list.",
+  "techTags": [
+    "Python",
+    "Streamlit",
+    "deep-translator"
+  ],
+  "source": "github",
+  "category": "Python",
+  "live_url": "",
+  "repo_name": "translator_agent",
+  "repo_link": true,
+  "image": "",
+  "fetch": false
+}
